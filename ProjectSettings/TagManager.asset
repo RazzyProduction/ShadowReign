@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Light
+  - Plataforma
+  - "Bot\xE3o"
+  - Sword
+  - Shadow
+  - HideTutorial
+  - Enemy
+  - GlacialPortal
+  - VulcanoPortal
+  - Boss
+  - CreditsPortal
+  - Spike
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Light
+  - Shadow
+  - Plataforma
+  - Wall
+  - Player
+  - "Bot\xE3o"
+  - Sword
+  - HideTutorial
+  - Enemy
+  - Boss
+  - FimFase
+  - SubirLava
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Transicao
+    uniqueID: 834844135
+    locked: 0
+  - name: "Atr\xE1sDoTexto"
+    uniqueID: 1900523523
+    locked: 0
